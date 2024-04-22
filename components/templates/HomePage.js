@@ -17,7 +17,7 @@ function HomePage() {
       <Companies />
       <Instruction />
       <Guide />
-      <Restrictions />
+      <Restrictions /> 
     </div>
   );
 }
